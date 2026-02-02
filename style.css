@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color:black;
+    color: white;  
+}
+
+h1{
+    color: rgb(168,80,50);
+    text-align: center;
+    font-family: 'Times New Roman';
+    margin-top: 13%;
+    text-shadow: 0 5px 30px rgb(168,80,50);
+}
+
+#about{
+    text-align:center;
+    font-size: larger;
+    font-weight: 800;
+    margin: 5%;
+}
+
+.edu{
+    margin-top: 300px;
+}
+
+p{
+    text-align: center;
+    font-weight: 600;
+    margin: 23px;
+}
+
+button{
+    background-color: rgb(160, 26, 26);
+    color: rgb(168,80,50);
+      
+}
+
+h2{
+    color: rgb(168,80,50);
+    text-align: center;
+    font-family: 'Times New Roman';
+    margin-top: 20%;
+    text-shadow: 0 4px 50px rgb(168,80,50);
+}
+
+a{
+    text-decoration: none;
+    text-align:center;
+    font-size: 1.2rem;
+    margin: 25px;
+    color:rgb(211, 74, 29) ;     
+}
