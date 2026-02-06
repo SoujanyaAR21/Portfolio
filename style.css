@@ -6,13 +6,14 @@
 body{
     background-color:black;
     color: white;  
+    padding-top: 120px;
 }
 
 h1{
     color: rgb(168,80,50);
     text-align: center;
     font-family: 'Times New Roman';
-    margin-top: 13%;
+    margin-top: 5%;
     text-shadow: 0 5px 30px rgb(168,80,50);
 }
 
@@ -29,6 +30,7 @@ h1{
     flex-direction: column;
     align-items: center;
     justify-items: flex-start;
+    text-shadow: none;
 }
 
 p{
@@ -88,7 +90,7 @@ div{
     height: 180px;
     border-radius: 50%;
     object-fit: cover;
-    margin-top: 25%;
+    margin-top: 10%;
     border: 3px solid rgb(168,80,50);
 }
 
@@ -127,7 +129,7 @@ div{
   display: inline-block;   
   cursor: pointer;
   border: none;
-  margin: 10px; 
+  margin: 5px; 
 }
 
 .btn{
