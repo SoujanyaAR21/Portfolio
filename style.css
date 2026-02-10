@@ -140,3 +140,16 @@ div{
   gap: 5px;
   padding: 10px;
 }
+
+.contain{
+    background-color: rgb(36, 33, 33);
+    border: 2px solid rgb(233, 69, 14);
+    border-radius: 2em;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40%;
+    box-shadow: o 20px 30px 40px rgb(211, 74, 29);
+ } 
