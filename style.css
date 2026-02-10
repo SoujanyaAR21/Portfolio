@@ -153,3 +153,10 @@ div{
     margin-top: 40%;
     box-shadow: o 20px 30px 40px rgb(211, 74, 29);
  } 
+
+ul{
+    list-style-position: inside;
+    padding-left: 30px;
+    text-align: start;
+}
+
