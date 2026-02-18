@@ -197,4 +197,19 @@ ul{
     box-shadow: o 20px 30px 40px rgb(211, 74, 29);
  } 
 
+.pro1{
+    background-color: rgb(36, 33, 33);
+    border: 2px solid rgb(6, 6, 6);
+    border-radius: 2em;
+    width: 400px;
+    height: 600px;
+    margin-left: 20px;
+    justify-content: start;
+    align-items: start;
+    margin-top: 0%;
+    box-shadow: o 20px 30px 40px rgb(211, 74, 29);
+ } 
+
+
+
 
