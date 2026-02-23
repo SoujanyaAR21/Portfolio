@@ -239,6 +239,8 @@ ul{
 .img1{
     height: 30vh;
     align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 
