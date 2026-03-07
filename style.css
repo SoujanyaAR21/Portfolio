@@ -245,7 +245,10 @@ ul{
 
 .image1{
     width: 350px;
-    height: 380px;   
+    height: 380px; 
+    border-radius: 12px;
+    background-size: cover;
+    margin-top: 50%;
 }
 
 
