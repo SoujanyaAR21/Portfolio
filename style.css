@@ -260,6 +260,9 @@ ul{
    color: white;
    border-radius: 0.9em;
    width: 70px; 
+   height: 30px;
+   background-color: black;
+   box-shadow: 0 2px 2px; 
 }
 
 .im1{
