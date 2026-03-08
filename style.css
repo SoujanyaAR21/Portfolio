@@ -255,6 +255,11 @@ ul{
     margin-top: 180px;
 }
 
+.code{
+   border: 2px solid rgb(19, 19, 19);
+    color: white; 
+}
+
 .im1{
     color: #ffff;
     text-align: left;
