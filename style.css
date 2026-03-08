@@ -257,7 +257,9 @@ ul{
 
 .code{
    border: 2px solid rgb(19, 19, 19);
-    color: white; 
+   color: white;
+   border-radius: 0.9em;
+   width: 70px; 
 }
 
 .im1{
