@@ -1,3 +1,4 @@
+//Show Semester details
 function showSemester (sem,btn){
     let content = "";
     switch (sem){
@@ -14,7 +15,6 @@ function showSemester (sem,btn){
             <li>Information technology-Lab</li>
             <li>Programming in C-Lab</li>
         </ul> `;
-        
         break;
 
         case 2:
