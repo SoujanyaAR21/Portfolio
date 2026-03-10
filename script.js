@@ -94,11 +94,13 @@ function showSemester (sem,btn){
 
         default:
             content = "No data available"
-
     }
+    
     document.getElementById("button").innerHTML = content;
     console.log(showSemester);
 }
+
+// Run when page loads
 window.onload = function() {
     showSemester(1);
 }
